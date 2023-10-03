@@ -6,7 +6,7 @@ A new Flutter project.
 
 
 ### Sign up screen 
-<img align="center" src="https://github.com/ikram-khani/chat_app/assets/96640983/14a9e062-cb49-4a1e-9d2e-e8e96d2cc1e5" width="350"/>
+<img src="https://github.com/ikram-khani/chat_app/assets/96640983/14a9e062-cb49-4a1e-9d2e-e8e96d2cc1e5" width=350/>
 
 ### Sign in
 <img src="https://github.com/ikram-khani/chat_app/assets/96640983/daefb3ce-74f7-4fb1-adb9-ef89de396d1d" width="350"> 
