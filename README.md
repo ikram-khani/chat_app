@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## App Preview
 
-This project is a starting point for a Flutter application.
+### Sign up screen 
+![Screenshot_20231004-013517](https://github.com/ikram-khani/chat_app/assets/96640983/14a9e062-cb49-4a1e-9d2e-e8e96d2cc1e5)
 
-A few resources to get you started if this is your first Flutter project:
+### Sign in
+![Screenshot_20231004-013731](https://github.com/ikram-khani/chat_app/assets/96640983/daefb3ce-74f7-4fb1-adb9-ef89de396d1d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Chat Messages
+![Screenshot_20231004-010136](https://github.com/ikram-khani/chat_app/assets/96640983/9beb3cbf-df92-456d-a1b1-bcf71f9da0c6)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Push Notification of new message received
+![IMG-20231004-WA0002](https://github.com/ikram-khani/chat_app/assets/96640983/5dd20ac6-2275-48bc-abea-10e573062939)
+
+
